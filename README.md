@@ -1,4 +1,4 @@
-#CoinTicker
+CoinTicker
 ---
 
 Lookup a cryptocurrency
